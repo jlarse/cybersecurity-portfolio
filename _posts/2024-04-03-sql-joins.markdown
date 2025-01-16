@@ -9,6 +9,5 @@ alt: image-alt
 project-url: https://docs.google.com/document/d/10HtpcgNvLSg3q80BmWEqQeHwTKdh0KWM-77gWX4pp5M/edit?usp=sharing
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Project 1: Utilized SQL to query a database applying various conditions using WHERE,AND ,OR,NOT, and LIKE to filter the results. 
-             Project 2: Used SQL left,right,self,and cross join, as well as, union and union all. 
+description: Project 1: Utilized SQL to query a database applying various conditions using WHERE,AND ,OR,NOT, and LIKE to filter the results. Project 2: Used SQL left,right,self,and cross join, as well as, union and union all. 
 ---
