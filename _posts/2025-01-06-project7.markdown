@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: New
-img: audit.png
+img: ubuntu_project.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
