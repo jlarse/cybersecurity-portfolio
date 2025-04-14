@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: New
+title: Comming Soon
 img: ubuntu_project.png
 alt: image-alt
 
@@ -9,5 +9,5 @@ alt: image-alt
 project-url: 
 # https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing
 
-description: Another project here. Comming Soon.
+description: Comming Soon.
 ---
