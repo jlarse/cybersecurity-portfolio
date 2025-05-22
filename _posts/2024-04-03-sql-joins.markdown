@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 3
-title: SQL Query
+title: SQL Query and Joins
 img: sql.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
 project-url: https://docs.google.com/document/d/10HtpcgNvLSg3q80BmWEqQeHwTKdh0KWM-77gWX4pp5M/edit?usp=sharing
 
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
+# Once you've completed your project, update the 'description' below to this one:
 description: Project 1 - Utilized SQL to query a database applying various conditions based on situational need using WHERE,AND ,OR,NOT, and LIKE to filter the results. Project 2 - Used left, right, self, and cross join, as well as union and union all SQL queries.
 ---
